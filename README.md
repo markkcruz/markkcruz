@@ -1,6 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markkcruz)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm currently a college student at New Jersey Institute of Technology majoring in Computer Science! I'm skilled in frontend web development, basic backend dev, and skilled in C++. I also work on Python based projects.
+I'm currently a college student at New Jersey Institute of Technology majoring in Computer Science! I am a Full-Stack web-dev and mainly have developed in the MERN stack. I have done some work in AI/ML, cryptocurrency smart contracts, and even assembly.
+
+Currently really interested in the Metaverse and am a Avatar/World Creator for Unity based metaverses.
 
 <!---
 markkcruz/markkcruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
